@@ -1,5 +1,5 @@
 spacy
-glob
+glob3
 re
 operator
 numpy
