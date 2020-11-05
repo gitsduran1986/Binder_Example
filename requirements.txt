@@ -1,9 +1,7 @@
 spacy
 glob3
-operator
 numpy
 matplotlib
-collections
 nltk
 os
 string
