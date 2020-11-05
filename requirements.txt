@@ -1,6 +1,5 @@
 spacy
 glob3
-regex
 operator
 numpy
 matplotlib
