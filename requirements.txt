@@ -3,8 +3,5 @@ glob3
 numpy
 matplotlib
 nltk
-os
-string
-codec
 sklearn
 warnings
