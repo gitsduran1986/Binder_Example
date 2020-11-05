@@ -1,0 +1,13 @@
+spacy
+glob
+re
+operator
+numpy
+matplotlib
+collections
+nltk
+os
+string
+codec
+sklearn
+warnings
